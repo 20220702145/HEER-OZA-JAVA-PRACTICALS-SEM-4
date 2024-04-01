@@ -32,8 +32,8 @@ class Employee extends Person {
 
 public class Program18_Person {
     public static void main(String[] args) {
-        Employee Chinmay = new Employee(100, "Chinmay Khanzode", 20, 209939);
-        Chinmay.displayPerson();
-        Chinmay.displayEmployee();
+        Employee Heer = new Employee(100, "Heer Oza", 20, 209939);
+        Heer.displayPerson();
+        Heer.displayEmployee();
     }
 }
